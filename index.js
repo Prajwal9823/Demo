@@ -1,8 +1,8 @@
 const age =24;
 const name ='Prajwal'
 const dob = '31-01-2006'
-function above21(){
-    return age>=21
+function above18(){
+    return age>=18
 }
 function print(){
     console.log('I am Prajwal')
