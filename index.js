@@ -7,4 +7,6 @@ function above18(){
 function print(){
     console.log('I am Prajwal')
 }
-
+function printyear(){
+    console.log('2006')
+}
