@@ -7,3 +7,4 @@ function above18(){
 function print(){
     console.log('I am Prajwal')
 }
+
