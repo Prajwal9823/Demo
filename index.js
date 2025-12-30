@@ -4,3 +4,6 @@ const dob = '31-01-2006'
 function above21(){
     return age>=21
 }
+function print(){
+    console.log('I am Prajwal')
+}
